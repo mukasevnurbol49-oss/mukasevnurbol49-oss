@@ -1,6 +1,6 @@
 # Hi, I'm Nurbol Mukashev 👋
 
-## Junior Data Analyst from Kazakhstan 🇰🇿
+Junior Data Analyst | Almaty, Kazakhstan
 
 I am building my career in Data Analytics and improving my skills every day.
 
