@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Nurbol Mukashev 👋
 
-<!--
-**mukasevnurbol49-oss/mukasevnurbol49-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Data Analyst from Kazakhstan 🇰🇿
 
-Here are some ideas to get you started:
+I am building my career in Data Analytics and improving my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- 📊 Excel
+- 🗄 SQL
+- 📈 Power BI
+- ⚡ Power Query
+- 📉 Data Visualization
+
+---
+
+## Currently Learning
+
+- Advanced SQL
+- DAX
+- Power BI
+- Statistics for Data Analytics
+
+---
+
+## Current Project
+
+🏗 **Alihan Analytics Dashboard**
+
+Sales analytics project for a building materials company.
+
+Tools:
+
+- Excel
+- SQL
+- Power BI
+
+---
+
+## Upcoming Projects
+
+- 📊 Excel Dashboards
+- 🗄 SQL Portfolio
+- 📈 Power BI Reports
+- 🤖 Desktop Data Analytics Assistant
+
+---
+
+## Contact
+
+📧 Email: **mukasevnurbol49@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/nurbol-mukashev-1aa248337/
+
+📍 Almaty, Kazakhstan
